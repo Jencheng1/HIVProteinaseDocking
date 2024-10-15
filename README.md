@@ -64,27 +64,33 @@ This project is licensed under the MIT License - see the LICENSE file at the fol
 ## Screenshots
 
 **Binding Site Structure (Ligand)**
+
 ![Screenshot 2024-10-14 at 9 58 29 PM](https://github.com/user-attachments/assets/b2d85c89-b1af-4ff5-88cc-3ec8e694a6af)
 
 ![Screenshot 2024-10-14 at 9 58 40 PM](https://github.com/user-attachments/assets/371969dc-e7da-4a1e-8f6f-e38d352b4c76)
 
+
 **Binding Site Structure (Small Molecule)**
+
 ![Screenshot 2024-10-14 at 9 59 02 PM](https://github.com/user-attachments/assets/010beb62-20c1-41fc-8fcb-e990cd5e1dbe)
 
 
 **Binding Site Structure with LigandsBox, LinesBox, and Residues**
+
 ![Screenshot 2024-10-14 at 9 59 26 PM](https://github.com/user-attachments/assets/111ebb10-d35c-4c44-8764-d561f04df21f)
 
 
 **Ligand and Prep-Ligand Orientation**
-![Screenshot 2024-10-14 at 9 59 41 PM](https://github.com/user-attachments/assets/6bf8ea07-9afa-4848-afba-e47a317b30e6)
 
-**Hydrogen Charge Pattern with Licorice and Ball+Stick**
 ![Screenshot 2024-10-14 at 10 00 26 PM](https://github.com/user-attachments/assets/8fd1c16e-59da-463d-8bae-8e6748c55b42)
 
 
-**Docking Simulation Result**
+**Hydrogen Charge Pattern with Licorice and Ball+Stick**
+
 ![Screenshot 2024-10-14 at 10 01 00 PM](https://github.com/user-attachments/assets/504d95cd-9e0c-4d77-b295-ebf35212289d)
+
+
+**Docking Simulation Result**
 
 ![Screenshot 2024-10-14 at 10 02 19 PM](https://github.com/user-attachments/assets/d01b9446-63b6-4ab1-b70a-2ddceadaad79)
 
